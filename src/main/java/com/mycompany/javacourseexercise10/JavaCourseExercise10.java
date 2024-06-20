@@ -2,11 +2,12 @@
 
 package com.mycompany.javacourseexercise10;
 
-import entitie.Employee;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
 import java.util.Scanner;
+
+import entitie.Employee;
 
 
 public class JavaCourseExercise10 {
